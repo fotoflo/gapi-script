@@ -19,6 +19,7 @@
     "gapi-auth",
     "google-sign-in"
   ],
+  "type": "module",
   "author": "Lucas Andrade Oliveira",
   "license": "MIT",
   "bugs": {
